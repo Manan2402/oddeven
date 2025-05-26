@@ -27,6 +27,7 @@ public class Main {
                 System.out.println(number + " is not a valid integer.");
             }
         }
+        System.out.println("Hello");
 
         scanner.close();
     }
